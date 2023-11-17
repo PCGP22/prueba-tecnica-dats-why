@@ -1,0 +1,13 @@
+:root{
+  font-size: 24px;
+  font-family: sans-serif;
+}
+body{
+  margin: 0;
+  padding: 0;
+  --background_darkpurple: #5c295a;
+  --lightpurple: #762e73;
+  --background_black: #1d1d1b;
+  
+  background-color: var(--background_darkpurple);
+}
